@@ -32,10 +32,6 @@ Digit recognition is a key part of Optical Character Recognition (OCR) used in p
 2. Open the `.ipynb` file in Jupyter Notebook
 3. Run the cells step by step
 
-## Files
-- `handwritten_digits.ipynb` – the complete notebook
-- `README.md` – this file
-
 ## Author
 **Emilin Mary**  
 emilinmary33@gmail.com  
